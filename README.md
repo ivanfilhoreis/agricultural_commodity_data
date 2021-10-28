@@ -42,11 +42,19 @@ Pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
+## ✉️ Contato
+
+GUILHERME BITTENCOURT CORREA - guilherme.1092985@discente.uemg.br
+
+IVAN JOSE DOS REIS FILHO - ivan.filho@uemg.br
+
+## 🔎 Referências
+
+* [World Agricultural Supply and Demand Estimates](https://usda.library.cornell.edu/concern/publications/3t945q76s?locale=en)
 
 
+## 🔗 Links
 
-## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>

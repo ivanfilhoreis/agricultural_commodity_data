@@ -1,7 +1,7 @@
 ## 📊 Datasets
 Soybeans and corn price time-series were chosen to compare performance among different forecasting models
 
-The data source of time-series applied in this experiment were obtained from the World Agricultural Supply and
+The data  source of time-series applied in this experiment were obtained from the World Agricultural Supply and
 Demand Estimates (WAOB) from the United States Department of Agriculture (USDA).
 
 ### Overview of time-series used in experimental evaluation:

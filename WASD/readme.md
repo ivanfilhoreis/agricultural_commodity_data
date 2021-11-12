@@ -1,7 +1,7 @@
 ## 📊 Datasets
-Soybeans and corn price time-series were chosen to compare performance among different forecasting models
+Soybeans and corn price time-series
 
-The data  source of time-series applied in this experiment were obtained from the World Agricultural Supply and
+The data source of time-series were obtained from the World Agricultural Supply and
 Demand Estimates (WAOB) from the United States Department of Agriculture (USDA).
 
 ### Overview of time-series used in experimental evaluation:
@@ -16,7 +16,6 @@ Demand Estimates (WAOB) from the United States Department of Agriculture (USDA).
 
 >The attributes presented are used as parameters for forecasting world agricultural supply and demand. According to the February
 2020 report
-
 
 ###  Majors importers and exporters of corn and soybeans of the world:
 

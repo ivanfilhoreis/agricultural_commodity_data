@@ -15,6 +15,10 @@ Ivan José dos Reis Filho - ivan.filho@uemg.br
 
 Guilherme Bittencourt Correa - guilherme.1092985@discente.uemg.br
 
+Luiz Henrique Dutra Martins - luizmartins.uemg@gmail.com
+
+Rodrigo Neves Trindade - rodrigonevest@gmail.com
+
 ## 🔎 Referências
 
 * [World Agricultural Supply and Demand Estimates](https://usda.library.cornell.edu/concern/publications/3t945q76s?locale=en)

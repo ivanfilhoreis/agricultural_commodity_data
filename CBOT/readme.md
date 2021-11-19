@@ -9,7 +9,7 @@ df.head()
 ```
 
 <p align="center">
-  <img src="https://github.com/ivanfilhoreis/agricultural_commodity_data/blob/main/CBOT/img/head_corn.png?raw=true" width="600px" alt="table2"/>
+  <img src="https://github.com/ivanfilhoreis/agricultural_commodity_data/blob/main/CBOT/img/head_corn.png?raw=true" width="400px" alt="table2"/>
 </p>
 
 ## 🔎 References

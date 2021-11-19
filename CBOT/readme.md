@@ -1,5 +1,7 @@
 ### Chicago Board of Trade (CBOT)
 
+1. Load and read file:
+
 ```
 import pandas as pd
 df = pd.read_csv('https://raw.githubusercontent.com/ivanfilhoreis/agricultural_commodity_data/main/CBOT/corn.csv', 

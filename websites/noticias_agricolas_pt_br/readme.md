@@ -22,4 +22,19 @@ O notebook criado para a automação está disponível em: https://colab.researc
 *  **percentage_real:** cálculo representando o aumento/baixa intradia na moeda real. 
 *  **percentage_dollar:** cálculo representando o aumento/baixa intradia na moeda dollar.
 *  **trend:** a atribuição deste atributo é feita a partir do valor do atributo ***percentage_real***, caso acima de 0.5% é atribuída um valor ***Up***, caso contrário o valor atribuído é ***Down***. 
-*  **tarjet:** Para uso em algoritmos de ML, tem o mesmo propósito do atributo ***trend***. Atribuído valor 1 para Up e 0 para Down. 
+*  **tarjet:** Para uso em algoritmos de ML, tem o mesmo propósito do atributo ***trend***. Atribuído valor 1 para Up e 0 para Down.  
+*  
+  
+## Para carregar o dataset: 
+```
+import pandas as pd
+
+df = pd.read_excel('https://raw.githubusercontent.com/ivanfilhoreis/agricultural_commodity_data/main/websites/noticias_agricolas_pt_br/milho2015_2020.xlsx')
+
+df.head()
+```
+
+<p align="center">
+  <img src="./img/milho_head.png" heigth=60% width=80% alt="cabeçalho_milho"/>
+</p>
+

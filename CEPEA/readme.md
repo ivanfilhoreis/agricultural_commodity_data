@@ -37,5 +37,5 @@ dataset = pd.read_excel('https://github.com/ivanfilhoreis/agricultural_commodity
 dataset.head()
 ...
 ```
-![image](https://user-images.githubusercontent.com/56009318/143501445-1fe44193-8960-4304-93ba-47760b1433b7.png)
+
 

@@ -30,6 +30,12 @@ Colab : https://colab.research.google.com/drive/1uIlusgfpTcFqqz8jwJvK322iPGCqwiC
 
 ## Carregar e ler arquivo
 
-```
+import pandas as pd
+
+dataset = pd.read_excel('https://github.com/ivanfilhoreis/agricultural_commodity_data/blob/main/CEPEA/commodity.xlsx?raw=true')
+
+dataset.head()
 ...
 ```
+![image](https://user-images.githubusercontent.com/56009318/143501445-1fe44193-8960-4304-93ba-47760b1433b7.png)
+
